@@ -30,7 +30,7 @@
 <img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 </div>
-<hr/>
+</hr>
 
 #### 📬 Connect with me:
 
