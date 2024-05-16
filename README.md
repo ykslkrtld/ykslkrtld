@@ -30,12 +30,12 @@
 <img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 </div>
-</hr>
+<hr/>
 
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuksel-kurtuldu/)
-</hr>
+<hr/>
 
 <h2 align="center">My Projects</h2>
 
