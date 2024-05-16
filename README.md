@@ -32,13 +32,15 @@
 </div>
 <hr/>
 
-#### 📬 Connect with me:
-
+<div align="center">
+     <h2 align="center">📬 Connect With Me</h2>
+     
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuksel-kurtuldu/)
+
+</div>
 <hr/>
 
 <h2 align="center">My Projects</h2>
-
 
 <table border="1"  align="center"> 
     <td  align="center"><strong>Project Live Link</strong></td>
@@ -89,6 +91,8 @@
 </table>
 <hr>
 
+<h2  align="center">📈 Statistics</h2>
+
 <div  align="center">
   <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykslkrtld&theme=blue-green"
@@ -96,6 +100,8 @@
      />
   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ykslkrtld&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </div>
+
+<hr>
 
 
 
