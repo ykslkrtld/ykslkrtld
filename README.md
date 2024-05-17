@@ -57,13 +57,18 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
+        <td><a href="https://stock-app-yksl.vercel.app/">Movie App</a></td>
+        <td>React - Material-UI - React-Redux - Redux-Toolkit - axios - React-toastify - Formik - Yup</td>
+        <td><a href="https://github.com/ykslkrtld/stock-app">Repo Link</a></td>
+      </tr>
+     <tr>
         <td><a href="https://movie-app-yksl.vercel.app/">Movie App</a></td>
         <td>React - Firebase - Tailwind - Context API - axios - React-toastify</td>
         <td><a href="https://github.com/ykslkrtld/movie-app2">Repo Link</a></td>
       </tr>
      <tr>
         <td><a href="https://product-list-yksl.vercel.app/">Product List App</a></td>
-        <td> React - MUI - React-Redux - axios</td>
+        <td> React - Material-UI - React-Redux - axios</td>
         <td><a href="https://github.com/ykslkrtld/product-list-2">Repo Link</a></td>
       </tr>
      <tr style="margin: auto;">
