@@ -57,7 +57,7 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
-        <td><a href="https://stock-app-yksl.vercel.app/">Movie App</a></td>
+        <td><a href="https://stock-app-yksl.vercel.app/">Stock App</a></td>
         <td>React - Material-UI - React-Redux - Redux-Toolkit - axios - React-toastify - Formik - Yup</td>
         <td><a href="https://github.com/ykslkrtld/stock-app">Repo Link</a></td>
       </tr>
