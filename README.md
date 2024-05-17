@@ -82,7 +82,7 @@
         <td><a href="https://github.com/ykslkrtld/yksl-store">Repo Link</a></td>
      </tr> 
      <tr style="margin: auto;">
-        <td><a href="https://https://hospital-app-yksl.vercel.app/">Appointment App</a></td>
+        <td><a href="https://hospital-app-yksl.vercel.app/">Appointment App</a></td>
         <td>React - Bootstrap - axios - localstorage</td>
         <td><a href="https://github.com/ykslkrtld/hospital-app">Repo Link</a></td>
      <tr style="margin: auto;">
