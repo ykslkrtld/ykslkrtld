@@ -1,43 +1,51 @@
 ![](https://komarev.com/ghpvc/?username=ykslkrtld&color=blue&style=for-the-badge)
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="400">
+</div>
+
 <hr/>
+
 <div align=center>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Yüksel;Welcome+to+my+profile!;I'm+Full+Stack+Developer;" alt="Typing SVG" /></a>
 </div>
+
 <hr/>
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
-<img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
-<img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
-<img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
-<img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
-<img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-<img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
-<img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
-<img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
-<img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-<img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
-<img width="40px" alt="material-ui" title="Material UI" src="https://skillicons.dev/icons?i=materialui" />
-<img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
-<img width="40px" alt="vite" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
-<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
-<img width="40px" alt="netlify" title="netlify" src="https://skillicons.dev/icons?i=netlify" />
-<img width="40px" alt="vercel" title="vercel" src="https://skillicons.dev/icons?i=vercel" />
-<img width="40px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
-<img width="40px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
-<img width="40px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
-<img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
-<img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
-<img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/>
+<img src="https://img.shields.io/badge/firebase-14354C?style=for-the-badge&logo=firebase&logoColor=darkorange" alt="Firebase"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/>
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> 
+<img src="https://img.shields.io/badge/netlify-20232A?style=for-the-badge&logo=netlify&logoColor=61DAFB" alt="Netlify" />
+<img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+<img src="https://img.shields.io/badge/linux-E44C30?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logo" alt="VSCode" />
+<img src="https://img.shields.io/badge/postman-E44C30?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>  
 </div>
+
 <hr/>
 
 <div align="center">
      <h2 align="center">📬 Connect With Me</h2>
-     
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuksel-kurtuldu/)
 
 </div>
+
 <hr/>
 
 <h2 align="center">My Projects</h2>
