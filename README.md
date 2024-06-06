@@ -57,14 +57,14 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
-        <td><a href="https://milestone-blog-app-ykslkrtld.vercel.app/">Blog App</a></td>
+        <td><a href="https://mind-canvas-ykslkrtld.vercel.app/">Mind Canvas</a></td>
         <td>React - Material-UI - Tailwind - React-Redux - Redux-Toolkit - Redux-Persist - axios - React-toastify - Formik - Yup</td>
-        <td><a href="https://github.com/ykslkrtld/milestone-blog-app">Repo Link</a></td>
+        <td><a href="https://github.com/ykslkrtld/Mind-Canvas">Repo Link</a></td>
       </tr>
      <tr>
-        <td><a href="https://stock-app-yksl.vercel.app/">Stock App</a></td>
+        <td><a href="https://product-pool-yksl.vercel.app/">Product Pool</a></td>
         <td>React - Material-UI - Tailwind - React-Redux - Redux-Toolkit - Redux-Persist - axios - React-toastify - Formik - Yup</td>
-        <td><a href="https://github.com/ykslkrtld/stock-app">Repo Link</a></td>
+        <td><a href="https://github.com/ykslkrtld/Product-Pool">Repo Link</a></td>
       </tr>
      <tr>
         <td><a href="https://movie-app-yksl.vercel.app/">Movie App</a></td>
