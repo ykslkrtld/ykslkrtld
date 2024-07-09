@@ -72,9 +72,9 @@
         <td><a href="https://github.com/ykslkrtld/movie-app2">Repo Link</a></td>
       </tr>
      <tr>
-        <td><a href="https://product-list-yksl.vercel.app/">Product List App</a></td>
+        <td><a href="shopping-app-yksl.vercel.app">Shopping App</a></td>
         <td> React - Material-UI - React-Redux - axios</td>
-        <td><a href="https://github.com/ykslkrtld/product-list-2">Repo Link</a></td>
+        <td><a href="https://github.com/ykslkrtld/shopping-app">Repo Link</a></td>
       </tr>
      <tr style="margin: auto;">
         <td><a href="https://checkout-page-yksl.vercel.app/">Checkout Page</a></td>
